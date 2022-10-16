@@ -56,13 +56,8 @@ The exercise has several steps:
 
 ### What I learned
 
-- Reading diffs
-- View the unstaged changes
-- View the Working Directory Changes
-- View staged changes
-- Diff specific files
-- Compare changes across branches
-- Compare changes across commits
+- Making and staging commits
+- How to view commits using git log and git log --oneline
 
 ### Continued development
 
