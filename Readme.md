@@ -35,6 +35,8 @@ The exercise has several steps:
 
 -8: Make a new commit, including ONLY the changes from the groceries.txt file. The commit message should be "add ingredients for tomato soup"
 
+-9: Make a second commit including ONLY the changes to the yard.txt file.  It should have the commit message "add items needed for garden box"
+
 ### Links
 
 - [Udemy Git and Github Bootcamp Course with Certificate](https://www.udemy.com/course/git-and-github-bootcamp/)
