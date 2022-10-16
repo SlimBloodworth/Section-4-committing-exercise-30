@@ -37,6 +37,14 @@ The exercise has several steps:
 
 -9: Make a second commit including ONLY the changes to the yard.txt file.  It should have the commit message "add items needed for garden box"
 
+-10: At the end of groceries.txt add - couple of seed potatoes
+
+-11: In the yard.txt file, change the first line so that it says "3 bags of potting soil" instead of "2 bags of potting soil"
+
+-12: Make a commit that includes the changes to BOTH files.  The message should read "add items needed to grow potatoes"
+
+-13: Use a Git command to display a list of the commits. You should see 4.
+
 ### Links
 
 - [Udemy Git and Github Bootcamp Course with Certificate](https://www.udemy.com/course/git-and-github-bootcamp/)
